@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Quelle est la vitesse d'un escargot en plein sprint ?",
+    "possible_answers": ["0.03 km/h", "0.1 km/h", "1 km/h"],
+    "correct_answer": "0.03 km/h"
+  },
+  {
+    "question": "Combien de cheveux a en moyenne un être humain sur sa tête ?",
+    "possible_answers": [1000, 100000, 1000000],
+    "correct_answer": 100000
+  },
+  {
+    "question": "Combien de fois la Terre peut-elle tenir dans le Soleil ?",
+    "possible_answers": [10, 100, 1000],
+    "correct_answer": 1000
+  },
+  {
+    "question": "Quelle est la capitale du Canada ?",
+    "possible_answers": ["Toronto", "Ottawa", "Vancouver"],
+    "correct_answer": "Ottawa"
+  },
+  {
+    "question": "Quelle est la racine carrée de -1 ?",
+    "possible_answers": ["1", "i", "-1"],
+    "correct_answer": "i"
+  },
+  {
+    "question": "Combien de dents a un escargot ?",
+    "possible_answers": [0, 10, 100],
+    "correct_answer": 0
+  },
+  {
+    "question": "Quelle est la langue la plus parlée dans le monde ?",
+    "possible_answers": ["Mandarin", "Espagnol", "Anglais"],
+    "correct_answer": "Mandarin"
+  },
+  {
+    "question": "Combien de continents y a-t-il sur Terre ?",
+    "possible_answers": [5, 6, 7],
+    "correct_answer": 7
+  },
+  {
+    "question": "Quels sont les composants de l'eau gazeuse ?",
+    "possible_answers": ["Eau", "Bulles", "Dioxyde de carbone", "Sucre"],
+    "correct_answer": ["Bulles", "Dioxyde de carbone"]
+  },
+  {
+    "question": "Quels sont les carrés parfaits ?",
+    "possible_answers": [1, 4, 9, 15, 25, 30],
+    "correct_answer": [1, 4, 9, 25]
+  }
+]
